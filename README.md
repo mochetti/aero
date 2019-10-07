@@ -1,2 +1,3 @@
 # aero
-useful files for diy aircraft competition
+
+Useful files for the aerodesign SAE competition
